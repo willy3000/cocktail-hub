@@ -1,0 +1,77 @@
+.main{
+    width: 700px;
+    border: 1px solid green;
+    box-shadow: 0px 0px 1000px 10px rgb(9, 65, 41);
+    border-radius: 2ch;
+    text-align: center;
+}
+button{
+    margin:6px;
+}
+
+input{
+    box-shadow: 0px 0px 1000px 10px rgb(9, 65, 41);
+}
+
+.main_img{
+    max-width: 100px;
+    max-height: 100px;
+    transition-duration: 0.5s;
+    border: solid 2px rgb(24, 49, 43);
+    border-radius: 50%;
+
+}
+
+.main_img:hover{
+    max-width: 300px;
+    max-height: 300px;
+    width: 300px;
+    height: 300px;
+    border-radius: 1ch;
+}
+
+.list-group-item{
+    margin: 7px;
+    border-radius: 2ch;
+    font-size: 20px;
+    color: chocolate;
+}
+
+.sec{
+    border: 1px solid maroon;
+    border-radius: 2ch;
+    box-shadow: 0px 0px 1000px 10px rgb(9, 65, 41);
+    text-align: center;
+    height:max-content;
+}
+
+.drink-title{
+    font-size: 50px;
+}
+
+.specific_img{
+    width: 300px;
+    height: 300px;
+    border-radius: 2ch;
+    box-shadow: 0px 0px 1000px 90px rgb(9, 65, 41);
+
+}
+.in{
+    margin-left: 20px;
+}
+
+.inTitle{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.instructions{
+    font-size: 15px;
+}
+
+h1{
+    text-align: center;
+    padding: 25px;
+    font-weight: 100;
+    color:chocolate;
+}
